@@ -36,6 +36,8 @@ Before you start, it is **highly recommended** to read the [general exercise gui
 ## Computer-aided diagnosis
 
 *TBA*
+
+Hello
 <!---
 * [Introduction](notebooks/cad_introduction.ipynb)
 
